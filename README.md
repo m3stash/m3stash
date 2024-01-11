@@ -6,6 +6,3 @@ My linkedin profile - [![Linkedin Badge](https://img.shields.io/badge/-laurent--
 <p style="display:flex; align-items:center;">
 passionate about development above all!
 </p>
-
-![GitHub last commit](https://img.shields.io/github/last-commit/username/repository)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/username/repository)
